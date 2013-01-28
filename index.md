@@ -4,8 +4,6 @@ title: Goldenripe Translations
 subtitle: Clearly Communicating Scripture—in Your Language
 ---
 
-**{{ page.title }}** written in markdown.
+## Hey, translators. Thanks for helping us out.
 
-- list 1
-- list 2
-- list 3
+So you want to help bring The Way to more people, in more languages, and in more countries? Great, here's how you can get started now. To help us keep track of things, there are just a few steps you need to follow in order to translate, correct, or add to the content in The Way.
