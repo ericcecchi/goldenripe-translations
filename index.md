@@ -24,7 +24,7 @@ The easiest way to get a copy of the text content of The Way is to [click here](
 
 The Way lives in what Git calls a "repository." Repositories are simply a collection of files and folders. A repository is named by the Github user that created it, like so: "user-name/repository-name". In the [ericcecchi/goldenripe-translations](https://github.com/ericcecchi/goldenripe-translations) repository, all the text content for The Way is contained in a folder for each language. For example, the English version lives in the "en" folder. You can tell what repository you are in by looking at the top left part of the page:
 
-![A repository](/images/repository.png)
+![A repository](images/repository.png)
 
 By clicking the Fork button, you now have an exact copy of the source content of The Way under your Github account. It lives at  your-username/goldenripe-translations. We call this your Fork. The original repository remains intact. We call that the Base.
 
@@ -32,15 +32,15 @@ By clicking the Fork button, you now have an exact copy of the source content of
 
 You can make changes only to your Fork, not the Base repository. You can get to your Fork by clicking on your username in the upper right corner of any page on Github.com. You should then see your Fork listed under the Repositories tab:
 
-![Your Fork](/images/fork.png)
+![Your Fork](images/fork.png)
 
 Click on goldenripe-translations, and then navigate to the language folder you want to edit. If I click on "en" for English, I get a list of files for the English language sections:
 
-![The sections](/images/sections.png)
+![The sections](images/sections.png)
 
 Click on the file you want to edit, then the Edit button, and you're good to go. I would highly reccommend changing the "No wrap" setting to "Soft wrap" to make things a lot more readable.
 
-![Edit](/images/edit.png)
+![Edit](images/edit.png)
 
 ## Structure
 
@@ -83,7 +83,7 @@ This is the second paragraph. And so on.
 
 After you've made some changes, you can save your progress by scrolling down below the content editor and clicking the "Commit changes" button.
 
-![Commit](/images/commit.png)
+![Commit](images/commit.png)
 
 You can optionally enter a summary (short sentance) and a longer description of the changes you made. Committing saves your changes into your Fork only, not the Base repository. It's a good practice to commit early and commit often. You don't want to accidently lose your progress.
 
@@ -91,7 +91,7 @@ You can optionally enter a summary (short sentance) and a longer description of 
 
 Once you've committed some changes and you're ready to submit them to the Base repository, you need to create a Pull Request. This can be done by clicking on the pull request button when you're somewhere in your Fork. You'll get a page that looks like this:
 
-![Pull request](/images/pull.png)
+![Pull request](images/pull.png)
 
 First make certain that the "base repo" is ericcechi/goldenripe-translations and the "head repo" is your-username/goldenripe-translations. Then give your Pull Request a title and brief description before sending it in.
 
@@ -99,17 +99,17 @@ First make certain that the "base repo" is ericcechi/goldenripe-translations and
 
 After submitting a Pull Request, you'll be redirected to a discussion page for your Pull Request in the Base repository:
 
-![Discussion](/images/discussion.png)
+![Discussion](images/discussion.png)
 
 Reviewers can discuss and accept your changes from here. They may ask you to make some more changes before they accept it, though. So pay attention to this page. You can get back to it by going to the Base repository and click on the Pull Requests tab. Your Pull Requests will also be listed on the bottom of your profile page:
 
-![Contributions](/images/contributions.png)
+![Contributions](images/contributions.png)
 
 ## Rinse and repeat
 
 After your pull request has been accepted, you should delete your Fork. This will allow you to start over with the latest version of The Way next time you want to make changes. To do this, click on the "Settings" tab in your Fork. Then scroll down to the Danger Zone and click the "Delete this repository" button:
 
-![Danger](/images/danger.png)
+![Danger](images/danger.png)
 
 Don't worry—there's no danger in deleting as long as you're changes have been accepted in the Base repository.
 
