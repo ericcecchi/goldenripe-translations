@@ -70,7 +70,12 @@ pre {
   background: #f8f8f8;  
   border-radius:5px;
   border:1px solid #e5e5e5;
-  overflow-x: auto;
+}
+
+pre {
+  white-space: pre-wrap; /* CSS2.1 compliant */
+  white-space: -moz-pre-wrap; /* Mozilla-based browsers */
+  white-space: -o-pre-wrap; /* Opera 7+ */
 }
 
 table {
@@ -95,6 +100,9 @@ th {
 
 img {
   max-width:100%;
+  padding: 1px;
+  background: #fff;
+  border: 1px solid #eee;
 }
 
 header {

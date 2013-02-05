@@ -27,9 +27,114 @@
         </ul>
       </header>
       <section>
-        <h2 id='hey_translators_thanks_for_helping_us_out'>Hey, translators. Thanks for helping us out.</h2>
+        <h2>Hey, translators. Thanks for helping us out.</h2>
 
-<p>So you want to help bring The Way to more people, in more languages, and in more countries? Great, here&#8217;s how you can get started now. To help us keep track of things, there are just a few steps you need to follow in order to translate, correct, or add to the content in The Way.</p>
+<p>So you want to help bring The Way to more people, in more languages, and in more countries? Great! Here&#39;s how you can get started now.</p>
+
+<p>To help us keep track of things, there are just a few steps you need to follow in order to translate, correct, or add to the content in The Way. We use a service called Github to keep track of and review changes to The Way. It&#39;s easy for anyone to sign up and contribute.</p>
+
+<p>If you&#39;re not a computer engineer or software developer, you&#39;ve probably never heard of Git or Github. That&#39;s ok. It&#39;s a pretty complex and powerful tool, but it&#39;s really the best there is when it comes to keeping track of content coming from several different contributors. The goal of this guide is to make contributing to The Way as simple as possible for everyone.</p>
+
+<h1>How to contribute</h1>
+
+<h2>Sign up</h2>
+
+<p>The first thing you need to do is head over to <a href="http://github.com">Github.com</a> and sign up for an account. It&#39;s free and takes only a couple seconds.</p>
+
+<h2>Get a copy of The Way</h2>
+
+<p>The easiest way to get a copy of the text content of The Way is to <a href="https://github.com/ericcecchi/goldenripe-translations">click here</a> and then click the Fork button in the upper right side of the page.</p>
+
+<p>The Way lives in what Git calls a &quot;repository.&quot; Repositories are simply a collection of files and folders. A repository is named by the Github user that created it, like so: &quot;user-name/repository-name&quot;. In the <a href="https://github.com/ericcecchi/goldenripe-translations">ericcecchi/goldenripe-translations</a> repository, all the text content for The Way is contained in a folder for each language. For example, the English version lives in the &quot;en&quot; folder. You can tell what repository you are in by looking at the top left part of the page:</p>
+
+<p><img src="/images/repository.png" alt="A repository"></p>
+
+<p>By clicking the Fork button, you now have an exact copy of the source content of The Way under your Github account. It lives at  your-username/goldenripe-translations. We call this your Fork. The original repository remains intact. We call that the Base.</p>
+
+<h2>Make some changes</h2>
+
+<p>You can make changes only to your Fork, not the Base repository. You can get to your Fork by clicking on your username in the upper right corner of any page on Github.com. You should then see your Fork listed under the Repositories tab:</p>
+
+<p><img src="/images/fork.png" alt="Your Fork"></p>
+
+<p>Click on goldenripe-translations, and then navigate to the language folder you want to edit. If I click on &quot;en&quot; for English, I get a list of files for the English language sections:</p>
+
+<p><img src="/images/sections.png" alt="The sections"></p>
+
+<p>Click on the file you want to edit, then the Edit button, and you&#39;re good to go. I would highly reccommend changing the &quot;No wrap&quot; setting to &quot;Soft wrap&quot; to make things a lot more readable.</p>
+
+<p><img src="/images/edit.png" alt="Edit"></p>
+
+<h2>Structure</h2>
+
+<p>The structure of the content is extremely important for its proper display in all formats, web, print, and mobile.</p>
+
+<p>At the top of each file is a note about the category and language of the content:</p>
+<div class="highlight"><pre><code class="text">&lt;!---  
+The Way
+Questions
+English  
+--&gt;
+</code></pre></div>
+<p>There&#39;s no need to edit this. It&#39;s there for informational and technical reasons.</p>
+
+<p>The structure of the content is fairly straightforward. A single hash mark (#) followed by a single space denotes the section name. Two hash marks followed by a single space denotes a question. The answer is contained in the lines after a question and before the next question. Each paragraph in an answer is seperated by a single blank line. Here&#39;s an example of a couple questions:</p>
+<div class="highlight"><pre><code class="text"># Section Name
+
+## This is a question?
+
+This is the first paragraph of the answer to the question. Citations should use the full name of the book followed by the chapter and verse numbers seperated by a colon, like so: &quot;For God so loved the world that he gave only Son, that whoever believe in him should not  perish but have eternal life&quot; (John 3:16).
+
+This is the second paragraph. There is exactly one blank line seperating it from the first.
+
+Here is a third, very short paragraph.
+
+## This is another question?
+
+Here is the first paragraph. It has two short sentances.
+
+This is the second paragraph. And so on.
+</code></pre></div>
+<h2>Committing changes</h2>
+
+<p>After you&#39;ve made some changes, you can save your progress by scrolling down below the content editor and clicking the &quot;Commit changes&quot; button.</p>
+
+<p><img src="/images/commit.png" alt="Commit"></p>
+
+<p>You can optionally enter a summary (short sentance) and a longer description of the changes you made. Committing saves your changes into your Fork only, not the Base repository. It&#39;s a good practice to commit early and commit often. You don&#39;t want to accidently lose your progress.</p>
+
+<h2>Submitting your changes for review</h2>
+
+<p>Once you&#39;ve committed some changes and you&#39;re ready to submit them to the Base repository, you need to create a Pull Request. This can be done by clicking on the pull request button when you&#39;re somewhere in your Fork. You&#39;ll get a page that looks like this:</p>
+
+<p><img src="/images/pull.png" alt="Pull request"></p>
+
+<p>First make certain that the &quot;base repo&quot; is ericcechi/goldenripe-translations and the &quot;head repo&quot; is your-username/goldenripe-translations. Then give your Pull Request a title and brief description before sending it in.</p>
+
+<h2>Watch for your changes to be accepted</h2>
+
+<p>After submitting a Pull Request, you&#39;ll be redirected to a discussion page for your Pull Request in the Base repository:</p>
+
+<p><img src="/images/discussion.png" alt="Discussion"></p>
+
+<p>Reviewers can discuss and accept your changes from here. They may ask you to make some more changes before they accept it, though. So pay attention to this page. You can get back to it by going to the Base repository and click on the Pull Requests tab. Your Pull Requests will also be listed on the bottom of your profile page:</p>
+
+<p><img src="/images/contributions.png" alt="Contributions"></p>
+
+<h2>Rinse and repeat</h2>
+
+<p>After your pull request has been accepted, you should delete your Fork. This will allow you to start over with the latest version of The Way next time you want to make changes. To do this, click on the &quot;Settings&quot; tab in your Fork. Then scroll down to the Danger Zone and click the &quot;Delete this repository&quot; button:</p>
+
+<p><img src="/images/danger.png" alt="Danger"></p>
+
+<p>Don&#39;t worry—there&#39;s no danger in deleting as long as you&#39;re changes have been accepted in the Base repository.</p>
+
+<p>When you&#39;re ready to contribute again, start over at step 1 by forking the Base repository again.</p>
+
+<h2>Breathe deep</h2>
+
+<p>Don&#39;t worry about making mistakes. They can easily be fixed along the way. The best thing you can do for The Way is start contributing right now, so have at it! Here at Goldenripe, we greatly appreciate your willingness to help us out. And on behalf of those whose lives will be enlightened by the truth communicated in The Way, thanks and God bless!</p>
+
       </section>
       <footer>
 
