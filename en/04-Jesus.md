@@ -24,7 +24,7 @@ Jesus fully reveals the Father (Matthew 11:27) and is the exact representation o
 
 ## Since God does not have a physical body, how can Jesus be the Son of God?
 
-Not a single Christian believes that Jesus is the Son of God in a physical sense. They do not believe that the Father had sexual relations with Mary which produced an offspring named Jesus.
+Not a single Christian believes that Jesus is the Son of God in a physical sense. They do not believe that the Father had sexual relations with Mary which produced an offspring named Jesus. The conception of Jesus was supernatural event. “The angel (Gabriel) answered, ‘The Holy Spirit will come upon you…. So the holy one to be born will be called the Son of God.’” (Luke 1:35).
 
 The use of expressions such as “son of” or “father of” or “mother of” is common around the world. The Qur’an itself uses the expression “Mother of the Book” (Surah Ar-Ra’d 13:39). Does that mean that there is a “Father of the Book” and “Sons of the Book” somewhere? Shi’ite Muslims have a similar concept. When they say, “Ali is the finger of God,” they do not believe that God has ten fingers like people do.
 
@@ -124,7 +124,7 @@ Jesus can take care of the effects of sin. He healed the paralyzed man, cleansed
 
 There is confusion over how the Greek term μονογενης (or monogenes transliterated) used in the Injil should be translated. Some translations translate it as “begotten” but a better translation would be “one and only.”
 
-Monogenes means “come from” without necessarily being created. It is similar to how Muslims believe the Qur’an was from Allah yet uncreated. Jesus, the eternal Kalimatullah (Word of God), came from God the Father. Both Muslims and Christians say the Word of God came from God but was uncreated.
+Monogenes means “come from” without necessarily being created. It is similar to how Muslims believe the Qur’an was from Allah yet uncreated. Jesus, the eternal Kalimatullah (Word of God), came from the Father (John 1:1, 14). Both Muslims and Christians say the Word of God came from God but was uncreated. Jesus of Nazareth, the man, was begotten of God the Holy Spirit (Luke 1:35).
 
 Monogenes is also used in the Torah in reference to Isaac, one of Abraham’s sons. There were other sons born to Abraham. What is meant when the Torah calls Isaac the “only begotten” son of Abraham? Since God’s covenant purposes were to be carried out through Isaac, he was called “only begotten” in the sense of his uniqueness.
 
