@@ -56,7 +56,7 @@ Muslims say that Matthew 27:46 shows that Jesus was not willing to be crucified.
 
 God is Holy but also just (Hebrews 6:10). Because of this, He must punish sin. Islam teaches that our good works will cancel out our sins and if the scale tilts in our favor, we will enter Paradise. Yet Adam only committed one sin, and because of that God expelled Adam from Paradise. If you have committed even one sin like Adam, what hope do you have of entering Paradise?
 
-Since it is impossible for our good works will never be enough to outweigh a single sin, then we need a different way to enter Paradise. Jesus was willing to die on the cross so we could be set free from the penalty of our sins. Only through believing in Jesus can we enter Paradise.
+Since it is impossible that our good works will ever be enough to outweigh a single sin, we need a different way to enter Paradise. Jesus was willing to die on the cross so we could be set free from the penalty of our sins. Only through believing in Jesus can we enter Paradise.
 
 ## Why is Judas guilty if it was God’s will for Jesus to die?
 
@@ -64,13 +64,13 @@ The Bible records prophecies such as Psalm 41:9 and Zechariah 11:10-13 that fore
 
 God is both King and Judge. As King, He is the sovereign and controls all things according to His will. As Judge, He holds everyone responsible for their choices.
 
-We know that God is able to do anything He desires. “I know that you can do all things; no purpose of yours can be thwarted” (Job 42:2). God may act directly or indirectly through the laws of nature, etc. He may even fulfill His plan by taking His hands off in a given situation. God created humans are free creatures responsible to God for the decisions that they make. God allows them to act even though He knows what they will do before they do it. Judas made the free choice to betray Jesus therefore he is responsible for his actions.
+We know that God is able to do anything He desires. “I know that you can do all things; no purpose of yours can be thwarted” (Job 42:2). God may act directly or indirectly through the laws of nature, etc. He may even fulfill His plan by taking His hands off in a given situation. God created humans as free creatures responsible to God for the decisions that they make. God allows them to act even though He knows what they will do before they do it. Judas made the free choice to betray Jesus therefore he is responsible for his actions.
 
 Jesus knew that Judas would betray Him (John 6:64, Matthew 26:25) and allowed it to happen (John 13:27-28). The Injil points out that Judas betrayed Jesus as a voluntary act (Luke 22:1-6; Matthew 26:14-16). After the betrayal, Judas confessed his own sin. “’I have sinned,’ he said, ‘for I have betrayed innocent blood’” (Matthew 27:4).
 
 ## Where was Jesus for the 3 days that He was dead?
 
-When Jesus died on the cross, He did not swoon or faint. He really died. On the third day He rose from the dead. Between His death and resurrection, Jesus’ human body was in the tomb, but He was alive. Jesus, the author of life, was could not die. The Bible records some details about what Jesus was doing during this period of time.
+When Jesus died on the cross, He did not swoon or faint. He really died. On the third day He rose from the dead. Between His death and resurrection, Jesus’ human body was in the tomb, but He was alive. Jesus, the author of life, could not die. The Bible records some details about what Jesus was doing during this period of time.
 
 The Bible says that Jesus visited the realm of the dead where He delivered a message to spirit beings (1 Peter 3:18-20). Peter did not tell us what Jesus proclaimed to these spirits. It was probably a declaration of victory over Satan and his hosts (1 Peter 3:22).
 
