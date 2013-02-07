@@ -30,7 +30,7 @@ Out of more than 6,000 verses in the Qur’an, there is not a single verse that 
 
 The Qur’an mentions that Jesus will die. “Peace on me the day I was born, and the day I die, and the day I shall be raised alive!” (Surah Maryam 19:33).
 
-The Qur’an tells those in doubt, “And if thou art in doubt concerning that which We reveal unto thee, then question those who read the Scripture (that was) before thee” (Surah Yunus 10:94). The People of the Book know how Jesus died because the Injil gives a clear answer. “This man [Jesus] was handed over to you by God’s deliberate plan and foreknowledge; and you, with the help of wicked men, put him to death by nailing him to the cross. But God raised him from the dead, freeing him from the agony of death, because it was impossible for death to keep its hold on him” (Acts 2:23-24).
+The Qur’an tells those in doubt, “And if thou art in doubt concerning that which We reveal unto thee, then question those who read the Scripture (that was) before thee” (Surah Yunus 10:94). The People of the Book know how Jesus died because the Injil gives a clear answer (see Matthew 27:33-51). “This man [Jesus] was handed over to you by God’s deliberate plan and foreknowledge; and you, with the help of wicked men, put him to death by nailing him to the cross. But God raised him from the dead, freeing him from the agony of death, because it was impossible for death to keep its hold on him” (Acts 2:23-24).
 
 ## How could God allow Jesus to suffer a shameful death on the cross?
 
