@@ -30,7 +30,7 @@ Di antara lebih dari 6.000 ayat di Al-Qur’an, tidak ada satu ayat pun yang men
 
 Al-Qur’an menyebut bahwa Yesus akan mati. “Dan kesejahteraan semoga dilimpahkan kepadaku, pada hari aku dilahirkan, pada hari aku meninggal dan pada hari aku dibangkitkan hidup kembali” (Sura Maryam 19:33).
 
-Al-Qur’an mengatakan bagi mereka yang ragu-ragu, “Maka jika kamu (Muhammad) berada dalam keragu-raguan tentang apa yang Kami turunkan kepadamu, maka tanyakanlah kepada orang-orang yang membaca kitab sebelum kamu” (Sura Yunus 10:94). Orang yang membaca kitab mengetahui bagaimana Yesus mati karena Injil memberikan jawaban yang jelas. “Dia [Yesus] yang diserahkan Allah menurut maksud dan rencana-Nya, telah kamu salibkan dan kamu bunuh oleh tangan bangsa-bangsa durhaka. Tetapi Allah membangkitkan Dia dengan melepaskan Dia dari sengsara maut, karena tidak mungkin Ia tetap berada dalam kuasa maut itu” (Kisah Para Rasul 2:23-24).
+Al-Qur’an mengatakan bagi mereka yang ragu-ragu, “Maka jika kamu (Muhammad) berada dalam keragu-raguan tentang apa yang Kami turunkan kepadamu, maka tanyakanlah kepada orang-orang yang membaca kitab sebelum kamu” (Sura Yunus 10:94). Orang yang membaca kitab mengetahui bagaimana Yesus mati karena Injil memberikan jawaban yang jelas (lihat Matius 27:33-51). “Dia [Yesus] yang diserahkan Allah menurut maksud dan rencana-Nya, telah kamu salibkan dan kamu bunuh oleh tangan bangsa-bangsa durhaka. Tetapi Allah membangkitkan Dia dengan melepaskan Dia dari sengsara maut, karena tidak mungkin Ia tetap berada dalam kuasa maut itu” (Kisah Para Rasul 2:23-24).
 
 ## Bagaimana Allah bisa membiarkan Yesus menderita kematian yang memalukan di kayu salib?
 
