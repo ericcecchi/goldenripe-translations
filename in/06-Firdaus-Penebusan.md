@@ -18,7 +18,7 @@ Tetapi Allah memberikan jalan kepada kita untuk dibebaskan dari penghakiman dan 
 
 ## Bagaimana Yesus bisa membayar hukuman dari dosa orang lain?
 
-Penebusan berarti membayar harga untuk menjamin kebebasan seseorang. Contohnya, kita membaca, “Dan Kami tebus anak itu dengan seekor sembelihan yang besar” (Sura Ash Shaaffaat 37:107). Anak Abraham ditebus oleh suatu korban pengganti.
+Penebusan berarti membayar harga untuk menjamin kebebasan seseorang. Contohnya, Al-Qur’an menyatakan, “Dan Kami tebus anak itu dengan seekor sembelihan yang besar” (Sura Ash Shaaffaat 37:107). Anak Abraham ditebus oleh suatu korban pengganti.
 
 Al-Qur’an juga menyatakan bahwa hanya orang yang memiliki perjanjian yang kuat dengan Allah (menjalankan segala perintah Allah dengan beriman dan bertakwa kepada-Nya) yang dapat menebus orang lain (Sura Maryam 19:87; Taahaa 20:109). Al-Qur’an mengajarkan bahwa tidak ada satu pun dari orang berdosa yang dapat menjadi pengganti dari orang berdosa lainnya karena mereka tidak memiliki perjanjian yang kuat dengan Allah. “dan seorang yang berdosa tidak akan memikul dosa orang lain” (Sura Az Zumar 39:7). Kebalikan dari kalimat ini maka menjadi benar. Seseorang yang tidak pernah berdosa dapat memikul dosa orang lain. Muhammad tidak dapat memikul dosa orang lain karena dia sendiri telah berdosa.
 
