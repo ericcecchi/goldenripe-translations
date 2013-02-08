@@ -18,7 +18,7 @@ But God gave us a way to be set free from this judgment and condemnation. “Con
 
 ## How can Jesus pay the penalty for someone else’s sin?
 
-Ransom or redemption means paying the price to secure someone’s freedom. For instance, we read, “Then We ransomed him with a tremendous victim” (Surah As-Saffaat 37:107). Abraham’s son was ransomed by a substitute.
+Ransom or redemption means paying the price to secure someone’s freedom. For instance, the Qur’an states, “Then We ransomed him with a tremendous victim” (Surah As-Saffaat 37:107). Abraham’s son was ransomed by a substitute.
 
 The Qur’an also states that only those who have a strong covenant with God can redeem others (Surahs Maryam 19:87; Ta-Ha 20:109). The Qur’an teaches that no sinner can ever be a substitute for another sinner because they do not have a strong covenant with God. “No laden soul will bear another’s load” (Surah Az-Zumar 39:7). But the converse of this is also true. Someone who has never sinned can bear another’s sin. Muhammad could not bear the sins of others because he had sinned himself.
 
