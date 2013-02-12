@@ -38,7 +38,7 @@ The Qur’an gives no reason as to why God tested Abraham. But the Injil explain
 
 God kept Abraham from completing the sacrifice. But God did not withhold His own hand from sacrificing His only Son so that we would be able to enter Paradise.
 
-## Doesn’t Jesus’ words in John 3:13 contradict what happened to Elijah (2 Kings 2:11) and Enoch (Hebrews 11:5)?
+## Don’t Jesus’ words in John 3:13 contradict what happened to Elijah (2 Kings 2:11) and Enoch (Hebrews 11:5)?
 
 Jesus’ statement in John 3:10-13 refers to the revelation of heavenly mysteries. Jesus is the only One who originates from heaven and descended from there to reveal these mysteries to us. Elijah and Enoch ascended into heaven but never returned again to tell of the heavenly mysteries that they had witnessed. Rather, they remained in heaven, in God’s presence.
 
