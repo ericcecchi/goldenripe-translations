@@ -72,9 +72,9 @@ Yesus tahu bahwa Yudas akan mengkhianati dia (Yohanes 6:64, Matius 26:25) dan me
 
 Ketika Yesus mati di kayu salib, dia tidak jatuh pingsan. Dia benar-benar mati. Pada hari ketiga Dia bangkit kembali dari antara orang mati. Di antara kematian dan kebangkitan-Nya, tubuh Yesus ada di dalam kuburan, namun Dia hidup. Yesus, pencipta kehidupan, tidak dapat mati. Alkitab mencatat rincian tentang apa yang Yesus lakukan selama periode waktu ini.
 
-Alkitab mengatakan bahwa Yesus mengunjungi alam kematian di mana Dia menyampaikan berita kepada roh-roh (I Petrus 3:18-20). Petrus tidak memberitahu kita apa yang Yesus sampaikan kepada roh-roh tersebut – mungkin pernyataan tentang kemenangan atas Setan dan bala tentaranya (I Petrus 3:22).
+Alkitab mengatakan bahwa Yesus mengunjungi alam kematian dalam keadaan Roh di mana Dia menyampaikan berita kepada roh-roh (I Petrus 3:18-20). Petrus tidak memberitahu kita apa yang Yesus sampaikan kepada roh-roh tersebut – mungkin pernyataan tentang kemenangan atas Setan dan bala tentaranya (I Petrus 3:22).
 
-Selama 3 hari ini, Yesus tidak memberikan kesempatan kedua kepada orang yang telah mati untuk diselamatkan. Injil mengatakan bahwa kita menghadapi penghakiman setelah kematian (Ibrani 9:27).
+Sewaktu digantung di kayu salib, Yesus berjanji kepada salah satu penjahat yang disalib di samping Dia, “Hari ini juga engkau akan ada bersama-sama dengan Aku di dalam Firdaus,” (Lukas 23:43). Ini berarti Yesus langsung pergi ke Firdaus setelah Dia mati di kayu salib. Dengan napas terakhir-Nya, Yesus berseru dengan suara nyaring: "Ya Bapa, ke dalam tangan-Mu Kuserahkan nyawa-Ku," (Lukas 23:46). Saat itu Roh Yesus pergi dari tubuh-Nya dan langsung pergi ke hadapan Bapa-Nya.
 
 ## Kenapa Yesus tidak menyelamatkan diri-Nya agar tidak disalibkan?
 
