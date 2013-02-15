@@ -66,7 +66,7 @@ Semua gereja adalah satu dalam hal doktrin dan iman kepercayaan. Walaupun mereka
 
 Agama Kristen memiliki tiga kelompok utama (Katolik, Ortodoks, dan Protestan). Agama Islam dibagi menjadi dua kelompok utama (Sunni dan Shi’ah).
 
-Banyak yang berpikir bahwa gereja adalah suatu gedung, seperti halnya mesjid. Kata “Gereja” diterjemahkan dari kata Grika “Ecclesia”, yang berarti “mereka yang telah terpanggil keluar.” Yesus telah memanggil para pengikut-Nya keluar dari dunia dan masuk ke dalam hubungan dengan Allah dan orang-orang Kristen lainnya.
+Banyak yang berpikir bahwa gereja adalah suatu gedung, seperti halnya mesjid. Kata “Gereja” diterjemahkan dari kata Grika “Ecclesia”, yang berarti “mereka yang telah terpanggil keluar.” Yesus telah memanggil para pengikut-Nya keluar dari dosa mereka dan masuk ke dalam hubungan dengan Allah dan orang-orang Kristen lainnya.
 
 ## Kenapa orang Kristen tidak berpuasa?
 

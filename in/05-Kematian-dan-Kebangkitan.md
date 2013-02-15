@@ -30,7 +30,7 @@ Di antara lebih dari 6.000 ayat di Al-Qur’an, tidak ada satu ayat pun yang men
 
 Al-Qur’an menyebut bahwa Yesus akan mati. “Dan kesejahteraan semoga dilimpahkan kepadaku, pada hari aku dilahirkan, pada hari aku meninggal dan pada hari aku dibangkitkan hidup kembali” (Sura Maryam 19:33).
 
-Al-Qur’an mengatakan bagi mereka yang ragu-ragu, “Maka jika kamu (Muhammad) berada dalam keragu-raguan tentang apa yang Kami turunkan kepadamu, maka tanyakanlah kepada orang-orang yang membaca kitab sebelum kamu” (Sura Yunus 10:94). Orang yang membaca kitab mengetahui bagaimana Yesus mati karena Injil memberikan jawaban yang jelas. “Dia [Yesus] yang diserahkan Allah menurut maksud dan rencana-Nya, telah kamu salibkan dan kamu bunuh oleh tangan bangsa-bangsa durhaka. Tetapi Allah membangkitkan Dia dengan melepaskan Dia dari sengsara maut, karena tidak mungkin Ia tetap berada dalam kuasa maut itu” (Kisah Para Rasul 2:23-24).
+Al-Qur’an mengatakan bagi mereka yang ragu-ragu, “Maka jika kamu (Muhammad) berada dalam keragu-raguan tentang apa yang Kami turunkan kepadamu, maka tanyakanlah kepada orang-orang yang membaca kitab sebelum kamu” (Sura Yunus 10:94). Orang yang membaca kitab mengetahui bagaimana Yesus mati karena Injil memberikan jawaban yang jelas (lihat Matius 27:33-51). “Dia [Yesus] yang diserahkan Allah menurut maksud dan rencana-Nya, telah kamu salibkan dan kamu bunuh oleh tangan bangsa-bangsa durhaka. Tetapi Allah membangkitkan Dia dengan melepaskan Dia dari sengsara maut, karena tidak mungkin Ia tetap berada dalam kuasa maut itu” (Kisah Para Rasul 2:23-24).
 
 ## Bagaimana Allah bisa membiarkan Yesus menderita kematian yang memalukan di kayu salib?
 
@@ -74,7 +74,7 @@ Ketika Yesus mati di kayu salib, dia tidak jatuh pingsan. Dia benar-benar mati. 
 
 Alkitab mengatakan bahwa Yesus mengunjungi alam kematian di mana Dia menyampaikan berita kepada roh-roh (I Petrus 3:18-20). Petrus tidak memberitahu kita apa yang Yesus sampaikan kepada roh-roh tersebut – mungkin pernyataan tentang kemenangan atas Setan dan bala tentaranya (I Petrus 3:22).
 
-Ketika terpaku di kayu salib, Yesus berjanji untuk membawa penjahat di sebelah-Nya ke Firdaus. Efesus 4:8-10 menyatakan bahwa Yesus pergi ke tempat mereka yang telah percaya kepada-Nya sebelum Dia mati dan membawa mereka ke Firdaus. Selama 3 hari ini, Yesus tidak memberikan kesempatan kedua kepada orang yang telah mati untuk diselamatkan. Injil mengatakan bahwa kita menghadapi penghakiman setelah kematian (Ibrani 9:27).
+Selama 3 hari ini, Yesus tidak memberikan kesempatan kedua kepada orang yang telah mati untuk diselamatkan. Injil mengatakan bahwa kita menghadapi penghakiman setelah kematian (Ibrani 9:27).
 
 ## Kenapa Yesus tidak menyelamatkan diri-Nya agar tidak disalibkan?
 
@@ -88,7 +88,7 @@ Satu-satunya jalan kita dapat dibebaskan dari kematian adalah jika Yesus tidak m
 
 Jika Yesus tidak bangkit dari antara orang mati, maka kekristenan merupakan kebohongan dan tidak seorang pun patut mempercayainya. Yesus mengklaim bahwa Dia akan membuktikan bahwa Dia adalah Tuhan dengan cara bangkit dari orang mati. Pada lima kejadian yang berbeda, Yesus meramalkan bahwa Dia akan mati dan lalu tiga hari kemudian akan bangkit hidup kembali.
 
-Mayat Yesus ditempatkan di gua kuburan batu yang keras. Batu bulat seberat dua ton ditempatkan di pintu gua kuburan tersebut. Karena Yesus secara publik mengatakan Dia akan bangkit dari antara orang mati, sekelompok tentara Romawi yang terlatih ditempatkan di gua kuburan untuk menjaga. Namun tiga hari kemudian, kuburan tersebut kosong. Yang tertinggal hanyalah kain kafan saja. Batu bulat yang digunakan untuk menutup kuburan ditemukan di atas lereng, tak seberapa jauh dari kuburan.
+Mayat Yesus ditempatkan di gua kuburan batu yang keras. Batu bulat yang besar ditempatkan di pintu gua kuburan tersebut. Karena Yesus secara publik mengatakan Dia akan bangkit dari antara orang mati, sekelompok tentara Romawi yang terlatih ditempatkan di gua kuburan untuk menjaga. Namun tiga hari kemudian, kuburan tersebut kosong. Yang tertinggal hanyalah kain kafan saja.
 
 Jika musuh-musuh Yesus ingin mengakhiri kekristenan, yang mereka perlu lakukan hanyalah menunjukkan mayat Yesus kepada orang-orang di Yerusalem. Hal ini akan langsung membuktikan bahwa Yesus tidak bangkit hidup kembali. Namun mereka tidak dapat memperlihatkan mayat Yesus.
 

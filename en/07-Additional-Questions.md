@@ -60,11 +60,11 @@ Jesus declared it permissible to eat all food (Mark 7:14-19). The Qur’an quote
 
 Muslims point to their unity to show that their religion is preferable to Christianity. Islam’s unity results from uniformity to rules and religious forms. Muslims can go to any mosque anywhere in the world and know exactly how to perform their ritual prayers.
 
-All Churches are unified on matters of doctrine and faith. Although they may use different styles to worship God, they all believe in the Trinity, salvation through faith in Jesus Christ, and that the Torah, Zabur and Injil are God’s Word.
+All Christians are unified on their core beliefs as expressed in statements such as the Apostles’ Creed. Although churches may use different styles to worship God, they all believe in the Trinity, salvation through faith in Jesus Christ, and that the Torah, Zabur and Injil are God’s Word.
 
-Christians have three main groups (Catholic, Orthodox and Protestant). Muslims are divided into two main groups (Sunni and Shiite).
+Christians have three main groups (Catholic, Orthodox and Protestant). Muslims are divided into two main groups (Sunni and Shiite). Muslims and Christians alike have much diversity of opinions on the non-core tenets of their faiths. One reason that there are so many different churches and mosques is because of the pride, selfishness and rebelliousness found in the heart of the worshippers.
 
-Many think that a church is a building, something like a mosque. The word, “Church,” is translated from the Greek word “Ecclesia,” which means “those that have been called out.” Jesus has called His followers out of the world and into a relationship with God and other believers.
+Many think that a church is a building, something like a mosque. The word, “Church,” is translated from the Greek word “Ecclesia,” which means “those that have been called out.” Jesus has called His followers out of their sin and into a relationship with God and other believers.
 
 ## Why don’t Christians fast?
 

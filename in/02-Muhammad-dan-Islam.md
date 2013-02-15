@@ -22,7 +22,7 @@ Namun demikian, Muhammad tidak memahami besarnya kasih Allah bagi dunia. Allah m
 
 Orang Kristen tidak dapat sependapat dengan pengakuan orang Islam tentang Muhammad. Pengakuan iman agama Islam menyatakan bahwa Muhammad adalah Utusan Allah. Orang Kristen tidak dapat menerima ajaran Al-Qur’an’s bahwa Muhammad adalah nabi terakhir.
 
-## Kenapa orang Kristen percaya nubuatan-nubuatan di dalam Alkitab tentang kedatangan Muhammad?
+## Kenapa orang Kristen tidak percaya nubuatan-nubuatan di dalam Alkitab tentang kedatangan Muhammad?
 
 Orang Islam percaya bahwa Musa menubuatkan kedatangan Muhammad di dalam kitab Ulangan 18:18: “Seorang nabi akan Kubangkitkan bagi mereka dari antara saudara mereka, seperti engkau ini; Aku akan menaruh firman-Ku dalam mulutnya, dan ia akan mengatakan kepada mereka segala yang Kuperintahkan kepadanya.” Konteks kata “dari antara saudara mereka” adalah dari antara bangsa Israel. Oleh karena itu, nabi yang dinubuatkan di sini adalah berasal dari bangsa Israel (Yahudi). Yesus adalah orang Yahudi, sedangkan Muhammad bukan. Ayat ini lebih cocok untuk Yesus daripada Muhammad.
 

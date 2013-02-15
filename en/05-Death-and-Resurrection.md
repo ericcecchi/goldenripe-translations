@@ -30,7 +30,7 @@ Out of more than 6,000 verses in the Qur’an, there is not a single verse that 
 
 The Qur’an mentions that Jesus will die. “Peace on me the day I was born, and the day I die, and the day I shall be raised alive!” (Surah Maryam 19:33).
 
-The Qur’an tells those in doubt, “And if thou art in doubt concerning that which We reveal unto thee, then question those who read the Scripture (that was) before thee” (Surah Yunus 10:94). The People of the Book know how Jesus died because the Injil gives a clear answer. “This man [Jesus] was handed over to you by God’s deliberate plan and foreknowledge; and you, with the help of wicked men, put him to death by nailing him to the cross. But God raised him from the dead, freeing him from the agony of death, because it was impossible for death to keep its hold on him” (Acts 2:23-24).
+The Qur’an tells those in doubt, “And if thou art in doubt concerning that which We reveal unto thee, then question those who read the Scripture (that was) before thee” (Surah Yunus 10:94). The People of the Book know how Jesus died because the Injil gives a clear answer (see Matthew 27:33-51). “This man [Jesus] was handed over to you by God’s deliberate plan and foreknowledge; and you, with the help of wicked men, put him to death by nailing him to the cross. But God raised him from the dead, freeing him from the agony of death, because it was impossible for death to keep its hold on him” (Acts 2:23-24).
 
 ## How could God allow Jesus to suffer a shameful death on the cross?
 
@@ -56,7 +56,7 @@ Muslims say that Matthew 27:46 shows that Jesus was not willing to be crucified.
 
 God is Holy but also just (Hebrews 6:10). Because of this, He must punish sin. Islam teaches that our good works will cancel out our sins and if the scale tilts in our favor, we will enter Paradise. Yet Adam only committed one sin, and because of that God expelled Adam from Paradise. If you have committed even one sin like Adam, what hope do you have of entering Paradise?
 
-Since it is impossible for our good works will never be enough to outweigh a single sin, then we need a different way to enter Paradise. Jesus was willing to die on the cross so we could be set free from the penalty of our sins. Only through believing in Jesus can we enter Paradise.
+Since it is impossible that our good works will ever be enough to outweigh a single sin, we need a different way to enter Paradise. Jesus was willing to die on the cross so we could be set free from the penalty of our sins. Only through believing in Jesus can we enter Paradise.
 
 ## Why is Judas guilty if it was God’s will for Jesus to die?
 
@@ -64,17 +64,19 @@ The Bible records prophecies such as Psalm 41:9 and Zechariah 11:10-13 that fore
 
 God is both King and Judge. As King, He is the sovereign and controls all things according to His will. As Judge, He holds everyone responsible for their choices.
 
-We know that God is able to do anything He desires. “I know that you can do all things; no purpose of yours can be thwarted” (Job 42:2). God may act directly or indirectly through the laws of nature, etc. He may even fulfill His plan by taking His hands off in a given situation. God created humans are free creatures responsible to God for the decisions that they make. God allows them to act even though He knows what they will do before they do it. Judas made the free choice to betray Jesus therefore he is responsible for his actions.
+We know that God is able to do anything He desires. “I know that you can do all things; no purpose of yours can be thwarted” (Job 42:2). God may act directly or indirectly through the laws of nature, etc. He may even fulfill His plan by taking His hands off in a given situation. God created humans as free creatures responsible to God for the decisions that they make. God allows them to act even though He knows what they will do before they do it. Judas made the free choice to betray Jesus therefore he is responsible for his actions.
 
 Jesus knew that Judas would betray Him (John 6:64, Matthew 26:25) and allowed it to happen (John 13:27-28). The Injil points out that Judas betrayed Jesus as a voluntary act (Luke 22:1-6; Matthew 26:14-16). After the betrayal, Judas confessed his own sin. “’I have sinned,’ he said, ‘for I have betrayed innocent blood’” (Matthew 27:4).
 
 ## Where was Jesus for the 3 days that He was dead?
 
-When Jesus died on the cross, He did not swoon or faint. He really died. On the third day He rose from the dead. Between His death and resurrection, Jesus’ human body was in the tomb, but He was alive. Jesus, the author of life, was could not die. The Bible records some details about what Jesus was doing during this period of time.
+When Jesus died on the cross, He did not swoon or faint. He really died. On the third day He rose from the dead. Between His death and resurrection, Jesus’ human body was in the tomb, but He was alive. Jesus, the author of life, could not die. The Bible records some details about what Jesus was doing during this period of time.
 
-The Bible says that Jesus visited the realm of the dead where He delivered a message to spirit beings (1 Peter 3:18-20). Peter did not tell us what Jesus proclaimed to these spirits. It was probably a declaration of victory over Satan and his hosts (1 Peter 3:22).
+The Bible says that Jesus visited the realm of the dead by the Spirit where He delivered a message to spirit beings (1 Peter 3:18-20). Peter did not tell us what Jesus proclaimed to these spirits. It was probably a declaration of victory over Satan and his hosts (1 Peter 3:22).
 
-While hanging on the cross, Jesus promised to take the thief next to Him into Paradise. Ephesians 4:8-10 states that Jesus went to those who had believed in Him prior to His death and took them into Paradise. During these 3 days, Jesus was not giving people a second chance for salvation. The Injil tells us that we face judgment after death (Hebrews 9:27).
+During these 3 days, Jesus was not giving people a second chance for salvation. The Injil tells us that we face judgment after death (Hebrews 9:27).
+
+While hanging on the cross, Jesus promised the thief being crucified next to Him, “Today you will be with me in paradise,” (Luke 23:43). This means that Jesus went immediately to Paradise after He died on the cross. With His last breath, Jesus cried out, “Father, into your hands I commit my spirit,” (Luke 23:46). Jesus' Spirit departed His body at this point and went directly into His Father’s presence. 
 
 ## Why didn’t Jesus save Himself from being crucified?
 
@@ -86,9 +88,9 @@ The only way we could be spared this death was if Jesus did not save Himself. �
 
 ## Did Jesus really rise from the dead?
 
-If Jesus did not rise from the dead, then Christianity is a lie and no one should believe it. Jesus claimed that He would prove that He is the Lord by rising from the dead. On five separate occasions, Jesus predicted that He would die and then three days later come back to life.
+If Jesus did not rise from the dead, then Christianity is a lie and no one should believe it. Jesus claimed that He would prove that He was the Lord by rising from the dead. On five separate occasions, Jesus predicted that He would die and then three days later come back to life.
 
-Jesus’ lifeless body was placed in a solid rock tomb. A two-ton boulder was rolled over the entrance of the tomb. Because Jesus had publicly said He would rise from the dead, a group of trained Roman soldiers was stationed at the tomb to stand guard. Yet three days later, the tomb was empty. Only the grave clothes remained. The boulder used to shut up the tomb was found up a slope, some distance away from the tomb.
+Jesus’ lifeless body was placed in a solid rock tomb. A heavy boulder was rolled over the entrance of the tomb. Because Jesus had publicly said He would rise from the dead, a group of trained Roman soldiers was stationed at the tomb to stand guard. Yet three days later, the tomb was empty. Only the grave clothes remained.
 
 If Jesus’ enemies wanted to put an end to Christianity, all they needed to do was show Jesus’ corpse to the people in Jerusalem. That would prove once and for all that Jesus did not come back to life. But they could not produce Jesus’ body.
 
