@@ -24,7 +24,7 @@ Yesus secara penuh mengungkapkan siapa Bapa (Matius 11:27) dan merupakan wakil B
 
 ## Karena Allah tidak memiliki tubuh jasmani, bagaimana Yesus bisa menjadi Anak Allah?
 
-Tidak ada satu orang Kristen pun yang percaya bahwa Yesus adalah Anak Allah secara jasmani. Mereka tidak percaya Bapa bersetubuh dengan Maryam dan menghasilkan anak yang dinamakan Yesus.
+Tidak ada satu orang Kristen pun yang percaya bahwa Yesus adalah Anak Allah secara jasmani. Mereka tidak percaya Bapa bersetubuh dengan Maryam dan menghasilkan anak yang dinamakan Yesus. Pembuahan janin Yesus merupakan kejadian supranatural. “Jawab malaikat (Jibril) itu kepadanya: ‘Roh Kudus akan turun atasmu…. sebab itu anak yang akan kaulahirkan itu akan disebut kudus, Anak Allah.’” (Lukas 1:35).
 
 Penggunaan istilah-istilah seperti “anak dari” atau “bapak dari” atau “ibu dari” sudah umum digunakan di seluruh dunia. Al-Qur’an sendiri menggunakan istilah “Ummul-Kitab” atau ibu dari Kitab (Sura al-Ra’d 13:39). Apakah ini berarti ada “Bapak Kitab” dan “Anak-Anak Kitab” di suatu tempat? Islam Shi’ah memiliki konsep yang mirip. Ketika mereka berkata, “Ali adalah jari Allah,” mereka tidak percaya bahwa Allah memiliki sepuluh jari seperti manusia.
 
@@ -126,7 +126,7 @@ Yesus dapat menangani akibat dari dosa. Dia menyembuhkan orang lumpuh, mentahirk
 
 Ada kesimpangsiuran atas bagaimana istilah kata Grika μονογενης (atau terjemahannya monogenes) yang digunakan di dalam injil ini seharusnya diterjemahkan. Beberapa terjemahan menterjemahkan sebagai “Anak” namun terjemahan yang lebih baik adalah “Anak Tunggal.”
 
-Monogenes berarti “berasal dari” yang belum tentu merupakan sesuatu yang diciptakan. Hal ini sama dengan bagaimana orang Muslim percaya Al-Qur’an berasal dari Allah namun bukan ciptaan Allah. Yesus, yang adalah Kalimatullah kekal (Firman Tuhan), berasal dari Allah Bapa. Baik orang Muslim maupun Kristen mengatakan bahwa Firman Tuhan berasal dari Allah namun bukan ciptaan Allah.
+Monogenes berarti “berasal dari” yang belum tentu merupakan sesuatu yang diciptakan. Hal ini sama dengan bagaimana orang Muslim percaya Al-Qur’an berasal dari Allah namun bukan ciptaan Allah. Yesus, yang adalah Kalimatullah kekal (Firman Tuhan), berasal dari Allah Bapa. Baik orang Muslim maupun Kristen mengatakan bahwa Firman Tuhan berasal dari Allah namun bukan ciptaan Allah. Yesus dari Nazaret, dalam bentuk manusia, diperanakkan dari Allah Roh Kudus (Lukas 1:35).
 
 Monogenes juga digunakan di dalam Taurat sebagai rujukan terhadap Ishak, salah satu anak lelaki Abraham. Ada anak-anak lelaki Abraham lainnya yang lahir. Apa artinya ketika Taurat menyebut Ishak sebagai “anak tunggal” Abraham? Karena rencana dari perjanjian Allah digenapi melalui Ishak, maka dia disebut sebagai “anak tunggal” karena statusnya yang unik.
 
