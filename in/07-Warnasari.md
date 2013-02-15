@@ -60,11 +60,11 @@ Yesus menyatakan semua makanan dapat dimakan (Markus 7:14-19). Al-Qur’an mengu
 
 ## Kenapa ada begitu banyak ragam gereja?
 
-Orang Muslim menunjukkan kesatuan mereka dengan menunjukkan bahwa agama mereka lebih baik daripada agama Kristen. Kesatuan Islam menghasilkan keseragaman dalam hal peraturan dan bentuk tata cara keagamaan. Orang Muslim dapat pergi ke gereja di mana pun di seluruh dunia dan mengetahui secara pasti bagaimana menjalankan shalat.
+Orang Muslim menunjukkan kesatuan mereka dengan menunjukkan bahwa agama mereka lebih baik daripada agama Kristen. Kesatuan Islam menghasilkan keseragaman dalam hal peraturan dan bentuk tata cara keagamaan. Orang Muslim dapat pergi ke mesjid di mana pun di seluruh dunia dan mengetahui secara pasti bagaimana menjalankan shalat.
 
-Semua gereja adalah satu dalam hal doktrin dan iman kepercayaan. Walaupun mereka mungkin menggunakan gaya yang berbeda untuk beribadah, mereka semua percaya kepada Allah Tritunggal, keselamatan melalui iman kepercayaan di dalam Yesus Kristus, dan bahwa Kitab Taurat, Mazmur, dan Injil adalah Firman Allah.
+Semua orang Kristen memiliki satu inti iman kepercayaan sebagaimana dinyatakan dalam Pengakuan Iman Rasuli. Walaupun gereja mungkin menggunakan gaya yang berbeda untuk beribadah, mereka semua percaya kepada Allah Tritunggal, keselamatan melalui iman kepercayaan di dalam Yesus Kristus, dan bahwa Kitab Taurat, Mazmur, dan Injil adalah Firman Allah.
 
-Agama Kristen memiliki tiga kelompok utama (Katolik, Ortodoks, dan Protestan). Agama Islam dibagi menjadi dua kelompok utama (Sunni dan Shi’ah).
+Agama Kristen memiliki tiga kelompok utama (Katolik, Ortodoks, dan Protestan). Agama Islam dibagi menjadi dua kelompok utama (Sunni dan Shi’ah). Islam dan Kristen sama-sama memiliki keanekaragaman opini dalam hal ajaran-ajaran yang tidak pokok dari iman kepercayaan mereka. Satu alasan kenapa ada begitu banyak ragam gereja dan mesjid adalah karena keangkuhan, keegoisan dan pemberontakan yang terdapat di dalam hati manusia.
 
 Banyak yang berpikir bahwa gereja adalah suatu gedung, seperti halnya mesjid. Kata “Gereja” diterjemahkan dari kata Grika “Ecclesia”, yang berarti “mereka yang telah terpanggil keluar.” Yesus telah memanggil para pengikut-Nya keluar dari dosa mereka dan masuk ke dalam hubungan dengan Allah dan orang-orang Kristen lainnya.
 
